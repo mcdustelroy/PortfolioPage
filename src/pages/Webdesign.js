@@ -1,6 +1,13 @@
 import React from "react";
 import CampaignIcon from '@mui/icons-material/Campaign';
 
+const candleStixxIcon = (
+	<img
+		className="main-page-img"
+		src="https://res.cloudinary.com/dmukgc5uu/image/upload/v1691262679/screen_social_xq97mg.jpg"
+		alt="data vis"
+	/>
+);
 const facebookIcon = (
 	<img
 		className="main-page-img"
@@ -51,6 +58,27 @@ const Webdesign = () => {
 				<div>Some links require spin-up from the host and can take up to a minute.  Please be patient.</div>
 			</h5>
 			<div className="con-websites">
+				<div className="wide-block-con">
+					<div className="wide-photo-con">
+						<a
+							href="https://candlestixx.onrender.com/"
+							target="_blank"
+							rel="noreferrer noopener"
+							className="link">
+							{candleStixxIcon}
+						</a>
+					</div>
+					<h3>
+						<a
+							href="https://candlestixx.onrender.com/"
+							target="_blank"
+							rel="noreferrer noopener"
+							className="link">
+							React App
+						</a>
+					</h3>
+					<h5 className="sub-title">Financial candlestick Analysis App</h5>
+				</div>
 				<div className="wide-block-con">
 					<div className="wide-photo-con">
 						<a
