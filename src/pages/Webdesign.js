@@ -4,7 +4,7 @@ import CampaignIcon from '@mui/icons-material/Campaign';
 const candleStixxIcon = (
 	<img
 		className="main-page-img"
-		src="https://res.cloudinary.com/dmukgc5uu/image/upload/v1691262679/screen_social_xq97mg.jpg"
+		src="https://res.cloudinary.com/dmukgc5uu/image/upload/v1691333808/screen_trade_hxtl4f.jpg"
 		alt="data vis"
 	/>
 );
@@ -74,10 +74,10 @@ const Webdesign = () => {
 							target="_blank"
 							rel="noreferrer noopener"
 							className="link">
-							React App
+							React + Apex Financial Charts
 						</a>
 					</h3>
-					<h5 className="sub-title">Financial candlestick Analysis App</h5>
+					<h5 className="sub-title">Financial candlestick analysis app</h5>
 				</div>
 				<div className="wide-block-con">
 					<div className="wide-photo-con">
