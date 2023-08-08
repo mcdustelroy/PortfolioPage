@@ -176,7 +176,7 @@ a {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	align-items: end;
+	align-items: flex-end;
 	/* background-color: rgba(0, 0, 0, .2); */
 	margin-left: auto;
 	
