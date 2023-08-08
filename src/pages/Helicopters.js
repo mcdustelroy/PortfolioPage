@@ -259,7 +259,7 @@ const Helicopter = () => {
 						</div>
 						<div className="about-course">
 							<div>
-								Private Pilot license (helicotper) <br />18 years old
+								Private Pilot license (helicopter) <br />18 years old
 							</div>
 						</div>
 						<div className="about-univer">
