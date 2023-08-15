@@ -64,7 +64,8 @@ const Webdesign = () => {
 							href="https://candlestixx.onrender.com/"
 							target="_blank"
 							rel="noreferrer noopener"
-							className="link">
+							className="link"
+							>
 							{candleStixxIcon}
 						</a>
 					</div>

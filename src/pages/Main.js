@@ -90,7 +90,7 @@ const Main = () => {
 			<div className="about-social-links-block so">
 				<div className="about-social-link">
 					<a
-						href="https://www.instagram.com/tania_vols/"
+						href="https://github.com/mcdustelroy"
 						target="_blank"
 						rel="noreferrer noopener"
 						className="social-link social-link-white">
@@ -99,7 +99,7 @@ const Main = () => {
 				</div>
 				<div className="social-link">
 					<a
-						href="https://www.instagram.com/tania_vols/"
+						href="https://www.instagram.com/mcdustelroy/"
 						target="_blank"
 						rel="noreferrer noopener"
 						className="social-link social-link-white">
@@ -108,7 +108,7 @@ const Main = () => {
 				</div>
 				<div className="social-link">
 					<a
-						href="https://www.facebook.com/tatsiana.volskaya"
+						href="https://www.facebook.com/profile.php?id=868760155"
 						target="_blank"
 						rel="noreferrer noopener"
 						className="social-link social-link-white">
@@ -117,7 +117,7 @@ const Main = () => {
 				</div>
 				<div className="social-link">
 					<a
-						href="https://twitter.com/CUTE_DATA_vis"
+						href="https://twitter.com/mcdustelroy"
 						target="_blank"
 						rel="noreferrer noopener"
 						className="social-link social-link-white">
@@ -126,7 +126,7 @@ const Main = () => {
 				</div>
 				<div className="social-link">
 					<a
-						href="https://wa.me/375298073083"
+						href="https://wa.me/19087418383"
 						target="_blank"
 						rel="noreferrer noopener"
 						className="social-link social-link-white">
@@ -135,7 +135,7 @@ const Main = () => {
 				</div>
 				<div className="social-link">
 					<a
-						href="https://www.linkedin.com/in/tania-volskaya/"
+						href="https://www.linkedin.com/in/dustin-mcelroy-329a143a/"
 						target="_blank"
 						rel="noreferrer noopener"
 						className="social-link social-link-white">
